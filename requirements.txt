@@ -1,4 +1,4 @@
 gensim==4.1.2
 jieba==0.42.1
-numpy==1.18.5
-scikit_learn==0.23.1
+numpy==1.20.1
+scikit_learn==1.0.2
